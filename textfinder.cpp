@@ -23,7 +23,7 @@ void TextFinder::on_findButton_clicked()
      ui->textEdit->find(searchString, QTextDocument::FindWholeWords);
      ui->textEdit->find(searchString, QTextDocument::FindWholeWords);
      ui->lineEdit->text() = "good";
-     ui->lineEdit->text() = "bad";
+     ui->lineEdit->text() = "ba";
      ui->lineEdit->show();
 }
 
