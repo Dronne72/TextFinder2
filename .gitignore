@@ -4,5 +4,5 @@
 *.Release
 /build/*
 *.user
-
+README.txt
 
