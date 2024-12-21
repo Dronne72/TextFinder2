@@ -3,6 +3,7 @@
 *.Debug
 *.Release
 /build/*
+/bin/*
 *.user
 README.txt
 
